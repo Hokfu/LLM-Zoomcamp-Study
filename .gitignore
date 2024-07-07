@@ -1,3 +1,6 @@
+02-open-source/ollama_files/*
+!02-open-source/ollama_files/.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -164,3 +167,5 @@ cython_debug/
 .DS_Store
 
 **/.DS_Store
+
+
