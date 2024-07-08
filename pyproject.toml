@@ -17,7 +17,7 @@ ipykernel = "^6.29.5"
 
 
 [tool.poetry.group.dev.dependencies]
-notebook = "7.1.2"
+notebook = "^7.2.1"
 
 [build-system]
 requires = ["poetry-core"]
