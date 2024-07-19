@@ -16,3 +16,10 @@ This is the repository of my studies in LLM Zoomcamp from DataTalksClub.
 - run ollama model with docker
 - save model weights of ollama model and run with docker
 - [Link](02-open-source)
+
+### Module 3 - Vector Store
+
+- text to vector 
+- vector embeddings with sentence transformer 
+- vector searching with KNN
+- [Link](03-vector-store)
