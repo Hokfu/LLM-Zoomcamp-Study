@@ -21,5 +21,6 @@ This is the repository of my studies in LLM Zoomcamp from DataTalksClub.
 
 - text to vector 
 - vector embeddings with sentence transformer 
-- vector searching with KNN
+- vector searching in elasticsearch with KNN
+- evaluation of vector retrieval
 - [Link](03-vector-store)
