@@ -9,10 +9,12 @@ dependencies = [
     "elasticsearch8>=8.18.1",
     "fastmcp>=2.10.5",
     "markdown>=3.8.2",
+    "minsearch>=0.0.4",
     "openai>=1.84.0",
     "python-dotenv>=1.1.0",
     "qdrant-client[fastembed]>=1.14.2",
     "requests>=2.32.3",
+    "rouge==1.0.1",
     "tiktoken>=0.9.0",
 ]
 
